@@ -348,7 +348,6 @@ h3 {
 .container3 {
   background-color: #fff;
   border-radius: 8px;
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
   padding: 20px;
   text-align: center;
 }
@@ -366,4 +365,10 @@ h3 {
 
 .container3 img {
   margin-top: 20px;
+}
+
+.container6 img {
+  align-items: center;
+  justify-content: center;
+  display: flex;
 }
